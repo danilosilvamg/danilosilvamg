@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Segue abaixo meu linkedin e email para contato!
+  ### Segue abaixo minhas redes sociais para contato!
  
 <div>
   <a href = "mailto:danilo.net2009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
