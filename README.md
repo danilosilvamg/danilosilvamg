@@ -19,7 +19,7 @@
   <a href = "mailto:danilo.net2009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-silva-03ab25a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/danilosilvamg/danilosilvamg/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danilosilvamg/danilosilvamg/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
